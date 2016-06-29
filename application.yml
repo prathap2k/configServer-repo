@@ -1,4 +1,4 @@
-configserver: false 
+configserver: true 
 
 eureka:
   instance:
